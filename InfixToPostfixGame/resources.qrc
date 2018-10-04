@@ -1,0 +1,41 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/Background.png</file>
+        <file>images/Button.png</file>
+        <file>images/Expression.png</file>
+        <file>images/KnightIdle.png</file>
+        <file>images/PlayButton.png</file>
+        <file>images/Slots.png</file>
+        <file>images/TutorialButton.png</file>
+        <file>images/Windows.png</file>
+        <file>images/SubmitButton.png</file>
+        <file>medEq.txt</file>
+        <file>hardEq.txt</file>
+        <file>easyEq.txt</file>
+        <file>images/a.png</file>
+        <file>images/b.png</file>
+        <file>images/c.png</file>
+        <file>images/CanvasWithSlots.png</file>
+        <file>images/d.png</file>
+        <file>images/divide.png</file>
+        <file>images/e.png</file>
+        <file>images/eight.png</file>
+        <file>images/five.png</file>
+        <file>images/four.png</file>
+        <file>images/minus.png</file>
+        <file>images/multiply.png</file>
+        <file>images/nine.png</file>
+        <file>images/one.png</file>
+        <file>images/plus.png</file>
+        <file>images/seven.png</file>
+        <file>images/six.png</file>
+        <file>images/three.png</file>
+        <file>images/two.png</file>
+        <file>images/zero.png</file>
+        <file>images/PlayButtonGray.png</file>
+        <file>images/SubmitButtonGray.png</file>
+        <file>images/TutorialButtonGray.png</file>
+        <file>KnightIdle.qml</file>
+        <file>images/MessageScroll.png</file>
+    </qresource>
+</RCC>
